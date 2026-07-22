@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://nlsoarez.github.io/carlos-santana-portal-site/sitemap.xml
