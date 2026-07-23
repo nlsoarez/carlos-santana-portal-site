@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[39756,["/carlos-santana-portal-site/_next/static/chunks/05-c3ty_6dwfk.js","/carlos-santana-portal-site/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-3:I[37457,["/carlos-santana-portal-site/_next/static/chunks/05-c3ty_6dwfk.js","/carlos-santana-portal-site/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+2:I[62282,["/carlos-santana-portal-site/_next/static/chunks/1j52sci947c35.js","/carlos-santana-portal-site/_next/static/chunks/0j3jyhzevw934.js"],"default"]
+3:I[11662,["/carlos-santana-portal-site/_next/static/chunks/1j52sci947c35.js","/carlos-santana-portal-site/_next/static/chunks/0j3jyhzevw934.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"mXdc_EN6ZvrhwGsGqGmUo"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"ss6GtFM1XAPBAjFd23OIq"}
