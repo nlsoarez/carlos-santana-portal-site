@@ -1,5 +1,5 @@
-:HL["/carlos-santana-portal-site/_next/static/chunks/3upuf75m-zpr4.css","style"]
+:HL["/carlos-santana-portal-site/_next/static/chunks/1b0lcjgv4ft5v.css","style"]
 :HL["/carlos-santana-portal-site/_next/static/media/38df7484fe560b25-s.p.34k3f59fehpay.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/carlos-santana-portal-site/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/carlos-santana-portal-site/_next/static/media/9e9f04e3c37952ab-s.p.0pan85mumqyf3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(public)","param":null,"prefetchHints":0,"slots":{"children":{"name":"acervo","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"I1tTEIf8xed94L9hinlyK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(public)","param":null,"prefetchHints":0,"slots":{"children":{"name":"acervo","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"WYcDOjccASlB5oDAzB4Iy"}

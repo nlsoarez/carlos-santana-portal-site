@@ -1,2 +1,2 @@
-:HL["/carlos-santana-portal-site/_next/static/chunks/3upuf75m-zpr4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"I1tTEIf8xed94L9hinlyK"}
+:HL["/carlos-santana-portal-site/_next/static/chunks/1b0lcjgv4ft5v.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WYcDOjccASlB5oDAzB4Iy"}
